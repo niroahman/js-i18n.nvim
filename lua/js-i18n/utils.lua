@@ -45,6 +45,7 @@ function M.detect_library(workspace_dir)
       "i18next",
       "react-i18next",
       "next-i18next",
+      "next-export-i18n"
     },
     [M.Library.NextIntl] = {
       "next-intl",
